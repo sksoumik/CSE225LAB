@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1466050644 source:c:\users\administrator\desktop\cse225_lab05\sorted list (linked list based)\sortedtype.cpp
+	<iostream>
+	"sortedtype.h"
+
+1466048857 c:\users\administrator\desktop\cse225_lab05\sorted list (linked list based)\sortedtype.h
+
+1466051813 source:c:\users\administrator\desktop\cse225_lab05\sorted list (linked list based)\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1466052269 c:\users\administrator\desktop\cse225_lab05\sorted list (linked list based)\sortedtype.cpp
+	<iostream>
+	"sortedtype.h"
+
+1466051814 source:f:\programming life\c plus plus\cse225_lab05\sorted list (linked list based)\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1466048858 f:\programming life\c plus plus\cse225_lab05\sorted list (linked list based)\sortedtype.h
+
+1466641107 f:\programming life\c plus plus\cse225_lab05\sorted list (linked list based)\sortedtype.cpp
+	<iostream>
+	"sortedtype.h"
+
+1466640963 source:f:\programming life\c plus plus\cse225_lab05\sorted list (linked list based)\sortedtype.cpp
+	<iostream>
+	"sortedtype.h"
+

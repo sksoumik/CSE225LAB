@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1465528943 source:c:\users\administrator\desktop\cse225_lab04\stack (linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1465528400 c:\users\administrator\desktop\cse225_lab04\stack (linked list)\stacktype.h
+
+1465528956 source:c:\users\administrator\desktop\cse225_lab04\stack (linked list)\main.cpp
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+
+1465528943 c:\users\administrator\desktop\cse225_lab04\stack (linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1465655298 source:f:\programming life\c plus plus\cse225_lab04\stack (linked list)\main.cpp
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+
+1465528402 f:\programming life\c plus plus\cse225_lab04\stack (linked list)\stacktype.h
+
+1465528944 f:\programming life\c plus plus\cse225_lab04\stack (linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1465528944 source:f:\programming life\c plus plus\cse225_lab04\stack (linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

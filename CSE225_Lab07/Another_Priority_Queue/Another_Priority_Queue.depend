@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1469004896 source:c:\users\rnr\desktop\another_priority_queue\heaptype.cpp
+	"heaptype.h"
+
+1468994987 c:\users\rnr\desktop\another_priority_queue\heaptype.h
+
+1468994987 source:c:\users\rnr\desktop\another_priority_queue\pqtype.cpp
+	"pqtype.h"
+	<iostream>
+
+1468994987 c:\users\rnr\desktop\another_priority_queue\pqtype.h
+	"heaptype.h"
+	"heaptype.cpp"
+
+1469004945 c:\users\rnr\desktop\another_priority_queue\heaptype.cpp
+	"heaptype.h"
+
+1468995760 source:c:\users\rnr\desktop\another_priority_queue\main.cpp
+	<iostream>
+	"pqtype.h"
+	"pqtype.cpp"
+
+1468994987 c:\users\rnr\desktop\another_priority_queue\pqtype.cpp
+	"pqtype.h"
+	<iostream>
+

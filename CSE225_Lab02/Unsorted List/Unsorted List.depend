@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1464230307 source:c:\users\administrator\desktop\cse225_lab02\unsorted list\itemtype.cpp
+	"itemtype.h"
+
+1464230339 c:\users\administrator\desktop\cse225_lab02\unsorted list\itemtype.h
+	<iostream>
+
+1464235170 source:c:\users\administrator\desktop\cse225_lab02\unsorted list\main.cpp
+	<iostream>
+	"unsortedtype.h"
+
+1464232679 c:\users\administrator\desktop\cse225_lab02\unsorted list\unsortedtype.h
+	"itemtype.h"
+
+1464232983 source:c:\users\administrator\desktop\cse225_lab02\unsorted list\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1464230308 source:f:\programming life\c plus plus\cse225_lab02\unsorted list\itemtype.cpp
+	"itemtype.h"
+
+1464230340 f:\programming life\c plus plus\cse225_lab02\unsorted list\itemtype.h
+	<iostream>
+
+1464235172 source:f:\programming life\c plus plus\cse225_lab02\unsorted list\main.cpp
+	<iostream>
+	"unsortedtype.h"
+
+1464232680 f:\programming life\c plus plus\cse225_lab02\unsorted list\unsortedtype.h
+	"itemtype.h"
+
+1464236872 source:f:\programming life\c plus plus\cse225_lab02\unsorted list\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+

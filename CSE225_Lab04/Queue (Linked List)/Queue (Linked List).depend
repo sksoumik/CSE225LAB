@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1465532805 source:c:\users\administrator\desktop\cse225_lab04\queue (linked list)\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1465532818 c:\users\administrator\desktop\cse225_lab04\queue (linked list)\quetype.h
+
+1465532985 source:c:\users\administrator\desktop\cse225_lab04\queue (linked list)\main.cpp
+	<iostream>
+	"quetype.h"
+	"quetype.cpp"
+
+1465532805 c:\users\administrator\desktop\cse225_lab04\queue (linked list)\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1465532986 source:f:\programming life\c plus plus\cse225_lab04\queue (linked list)\main.cpp
+	<iostream>
+	"quetype.h"
+	"quetype.cpp"
+
+1465532820 f:\programming life\c plus plus\cse225_lab04\queue (linked list)\quetype.h
+
+1465532806 f:\programming life\c plus plus\cse225_lab04\queue (linked list)\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1465532806 source:f:\programming life\c plus plus\cse225_lab04\queue (linked list)\quetype.cpp
+	<iostream>
+	"quetype.h"
+

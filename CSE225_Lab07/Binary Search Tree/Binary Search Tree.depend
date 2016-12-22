@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1468471164 source:c:\users\administrator\desktop\lab class 07\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1468469138 c:\users\administrator\desktop\lab class 07\binary search tree\binarysearchtree.h
+	"quetype.h"
+
+1468463944 c:\users\administrator\desktop\lab class 07\binary search tree\quetype.h
+
+1468464003 c:\users\administrator\desktop\lab class 07\binary search tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1468470730 source:c:\users\administrator\desktop\lab class 07\binary search tree\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1468464003 source:c:\users\administrator\desktop\lab class 07\binary search tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1468471164 c:\users\administrator\desktop\lab class 07\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1468470732 source:f:\programming life\c plus plus\lab class 07\binary search tree\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1468469140 f:\programming life\c plus plus\lab class 07\binary search tree\binarysearchtree.h
+	"quetype.h"
+
+1469040520 f:\programming life\c plus plus\lab class 07\binary search tree\quetype.h
+
+1468471208 f:\programming life\c plus plus\lab class 07\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1469040550 f:\programming life\c plus plus\lab class 07\binary search tree\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1468471208 source:f:\programming life\c plus plus\cse225_lab07\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1468469140 f:\programming life\c plus plus\cse225_lab07\binary search tree\binarysearchtree.h
+	"quetype.h"
+
+1469040520 f:\programming life\c plus plus\cse225_lab07\binary search tree\quetype.h
+
+1469040550 f:\programming life\c plus plus\cse225_lab07\binary search tree\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1468470732 source:f:\programming life\c plus plus\cse225_lab07\binary search tree\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1468471208 f:\programming life\c plus plus\cse225_lab07\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1469040550 source:f:\programming life\c plus plus\cse225_lab07\binary search tree\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1468471208 source:c:\users\sadman\desktop\cse225lab\cse225_lab07\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1468469140 c:\users\sadman\desktop\cse225lab\cse225_lab07\binary search tree\binarysearchtree.h
+	"quetype.h"
+
+1469040522 c:\users\sadman\desktop\cse225lab\cse225_lab07\binary search tree\quetype.h
+
+1469040552 c:\users\sadman\desktop\cse225lab\cse225_lab07\binary search tree\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1469040746 source:c:\users\sadman\desktop\cse225lab\cse225_lab07\binary search tree\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1468471208 c:\users\sadman\desktop\cse225lab\cse225_lab07\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1469040552 source:c:\users\sadman\desktop\cse225lab\cse225_lab07\binary search tree\quetype.cpp
+	<iostream>
+	"quetype.h"
+

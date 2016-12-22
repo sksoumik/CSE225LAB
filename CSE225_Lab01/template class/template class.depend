@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1465654965 source:f:\programming life\c plus plus\cse225_lab01\template class\main.cpp
+	"Triangle.h"
+	"Triangle.cpp"
+	<iostream>
+
+1465654934 f:\programming life\c plus plus\cse225_lab01\template class\triangle.h
+
+1465654949 f:\programming life\c plus plus\cse225_lab01\template class\triangle.cpp
+	"Triangle.h"
+	<iostream>
+	<math.h>
+
+1465654949 source:f:\programming life\c plus plus\cse225_lab01\template class\triangle.cpp
+	"Triangle.h"
+	<iostream>
+	<math.h>
+

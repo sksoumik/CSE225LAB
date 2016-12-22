@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1468483531 source:f:\programming life\c plus plus\graph (linked list)\main.cpp
+	<iostream>
+	"graphtype.h"
+	"graphtype.cpp"
+
+1468478984 f:\programming life\c plus plus\graph (linked list)\graphtype.h
+
+1468484003 f:\programming life\c plus plus\graph (linked list)\graphtype.cpp
+	<iostream>
+	"graphtype.h"
+
+1468483860 source:f:\programming life\c plus plus\graph (linked list)\graphtype.cpp
+	<iostream>
+	"graphtype.h"
+
